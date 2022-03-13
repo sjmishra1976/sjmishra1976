@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Santoshkumar Mishra, a seasoned Software Engineer and Technolgy Arichitect and Leader.
+- 👋 Hi, I’m Santoshkumar Mishra, a seasoned Software Engineer, Technolgy Architect and a Leader.
 - 👀 I’m interested in technologies and passionate about making usage of it to support use case for benefits for communities and societies.
 - 🌱 I’m currently learning AI/ML usages and Blockchains
 - 💞️ I’m looking to collaborate on webapps frameworks, utilities and webservices with Java, Javascript and Python.
