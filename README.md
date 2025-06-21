@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Santoshkumar Mishra, a seasoned Software Engineer, Technolgy Architect and a Leader.
 - 👀 I’m interested in technologies and passionate about making usage of it to support use cases for benefits of communities and societies.
-- 🌱 I’m currently learning IOT and integrating with clouds for view and analytics of collected data, AI/ML usages for predictions and Blockchains for
+- 🌱 I’m currently learning applications of Agentic AI in IVR Space, IOT and integrating with clouds for view and analytics of collected data, AI/ML usages for predictions and Blockchains for
     secure payments and contracts.
-- 💞️ I’m looking to collaborate on webapps frameworks, utilities and webservices with Java, Javascript and Python in support of above learning.
+- 💞️ I’m looking to collaborate on newest trends on AI/ML technolgies, webapps frameworks, utilities and webservices with Java, Javascript and Python in support of above learning.
 - 📫 Reach out to me via email sjmishra1976@gmail.com
 
 <!---
